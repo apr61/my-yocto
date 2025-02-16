@@ -39,5 +39,5 @@ do_install(){
 }
 
 
-FILES:${PN} += "${bindir}/helloworld"
+# FILES:${PN} += "${bindir}/helloworld"
 
